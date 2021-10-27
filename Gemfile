@@ -10,3 +10,4 @@ gem "rspec"
 gem "sinatra-contrib"
 gem "rerun"
 gem 'webrick'
+gem 'capybara'
